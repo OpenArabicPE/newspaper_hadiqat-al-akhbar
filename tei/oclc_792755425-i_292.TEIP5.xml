@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://rawgit.com/OpenArabicPE/OpenArabicPE_ODD/v0.1/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../boilerplate/xslt/teibp_parameters.xsl"?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0"
+         xmlns:tei="http://www.tei-c.org/ns/1.0"
+         xml:id="oclc_792755425-i_292"
+         prev="oclc_792755425-i_291.TEIP5.xml"
+         next="oclc_792755425-i_293.TEIP5.xml">
+   <tei:teiHeader xml:lang="en">
+      <tei:fileDesc>
+         <tei:titleStmt>
+            <title>Ḥadīqat al-Akhbār #, 19 November 1863</title>
+            <title type="sub">TEI edition</title>
+            <respStmt xml:lang="en">
+               <resp>TEI edition</resp>
+               <persName xml:id="pers_TG">
+                  <forename>Till</forename>
+                  <surname>Grallert</surname>
+               </persName>
+            </respStmt>
+         </tei:titleStmt>
+         <tei:publicationStmt>
+            <authority>
+               <persName>Till Grallert</persName>
+            </authority>
+            <pubPlace>Beirut</pubPlace>
+            <date when="2018">2018</date>
+            <availability status="restricted">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license</licence>
+            </availability>
+            <idno type="url">https://github.com/openarabicpe/newspaper_thamarat-al-funun/blob/master/xml/oclc_792755425-i_292.TEIP5.xml</idno>
+         </tei:publicationStmt>
+         <tei:sourceDesc>
+            <biblStruct xml:lang="ar-Latn-x-ijmes">
+               <monogr xml:lang="ar-Latn-x-ijmes">
+                  <title level="j" xml:lang="ar">حديقة الاخبار</title>
+                        <title level="j" type="sub" xml:lang="ar">جرنال مدني علمي متجري تاريخي</title>
+                        <title level="j" xml:lang="ar-Latn-x-ijmes">Ḥadīqat al-Akhbār</title>
+                        <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jurnāl madanī ʿilmī matjarī tārīkhī</title>
+                        <!-- use as many identifiers as appropriate -->
+                        <idno type="oclc" xml:lang="en">792755425</idno>
+                        <idno type="oclc" xml:lang="en">745205670</idno>
+                        <idno type="oclc" xml:lang="en">243441816</idno>
+                        <idno type="oclc" xml:lang="en">503753305</idno>
+                        <idno type="oclc" xml:lang="en">269135845</idno>
+                        <idno type="oclc" xml:lang="en">499946227</idno>
+                  <idno type="SenteUUID" xml:lang="ar-Latn-x-ijmes">5E4DA324-8F23-4CCB-B082-E04DF686AFFB</idno>
+                  <editor xml:lang="en" ref="viaf:41830998">
+                            <persName xml:lang="ar">
+                                <forename xml:lang="ar">خليل</forename>
+                                <surname xml:lang="ar">الخوري</surname>
+                            </persName>
+                            <persName xml:lang="ar-Latn-x-ijmes">
+                                <forename xml:lang="ar-Latn-x-ijmes">Khalīl</forename>
+                                <surname xml:lang="ar-Latn-x-ijmes">al-Khūrī</surname>
+                            </persName>
+                        </editor>
+                        <imprint xml:lang="en">
+                            <publisher xml:lang="en">
+                                <orgName xml:lang="ar">المطبعة السورية</orgName>
+                                <orgName xml:lang="ar-Latn-x-ijmes">al-Maṭbaʿa al-Sūriyya</orgName>
+                            </publisher>
+                            <pubPlace xml:lang="en">
+                                <placeName xml:lang="ar">بيروت</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes">Bayrūt</placeName>
+                                <placeName xml:lang="en">Beirut</placeName>
+                                <placeName xml:lang="fr">Beyrouth</placeName>
+                            </pubPlace>
+                     <date when="1863-11-19" xml:lang="en">19 Nov 1863</date>
+                     <date when="1863-11-19"
+                           when-custom="1863-11-07"
+                           calendar="#cal_julian"
+                           datingMethod="#cal_julian"
+                           xml:lang="en">7 Tish II 1863, Thursday</date>
+                     <date calendar="#cal_islamic"
+                           datingMethod="#cal_islamic"
+                           when-custom="1280-06-08"
+                           xml:lang="en">8 Jum II 1280</date>
+                     <date calendar="#cal_julian"
+                           datingMethod="#cal_julian"
+                           when-custom="1862-12-20"
+                           xml:lang="en">20 Kān I 1862</date>
+                     <biblScope unit="issue" from="292" to="292" xml:lang="en">292</biblScope>
+                     <biblScope unit="volume" from="6" to="6" xml:lang="en">6</biblScope>
+                     <biblScope unit="page" from="1" to="4" xml:lang="en">1-4</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </tei:sourceDesc>
+      </tei:fileDesc>
+      <tei:revisionDesc>
+         <tei:change when="2018-02-10">Created this file by automatic conversion of <tei:gi>biblStruct</tei:gi> from file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/OpenArabicPE/newspaper_hadiqat-al-akhbar/metadata/hadiqat-al-akhbar.TEIP5.xml.</tei:change>
+      </tei:revisionDesc>
+   </tei:teiHeader>
+   <tei:facsimile>
+      <tei:surface xml:id="facs_1">
+         <tei:graphic xml:id="facs_1-g_1"
+                      url="file://localhost/BachUni/BachSources/hadiqat%20al-akhbar/OIB%20StaBi/Images/150dpi/HA-2_Page_603_150dpi.jpg"
+                      mimeType="image/jpeg"/>
+      </tei:surface>
+      <tei:surface xml:id="facs_2">
+         <tei:graphic xml:id="facs_2-g_1"
+                      url="file://localhost/BachUni/BachSources/hadiqat%20al-akhbar/OIB%20StaBi/Images/150dpi/HA-2_Page_604_150dpi.jpg"
+                      mimeType="image/jpeg"/>
+      </tei:surface>
+      <tei:surface xml:id="facs_3">
+         <tei:graphic xml:id="facs_3-g_1"
+                      url="file://localhost/BachUni/BachSources/hadiqat%20al-akhbar/OIB%20StaBi/Images/150dpi/HA-2_Page_605_150dpi.jpg"
+                      mimeType="image/jpeg"/>
+      </tei:surface>
+      <tei:surface xml:id="facs_4">
+         <tei:graphic xml:id="facs_4-g_1"
+                      url="file://localhost/BachUni/BachSources/hadiqat%20al-akhbar/OIB%20StaBi/Images/150dpi/HA-2_Page_606_150dpi.jpg"
+                      mimeType="image/jpeg"/>
+      </tei:surface>
+   </tei:facsimile>
+   <tei:text xml:lang="ar">
+      <tei:pb ed="print" n="1" facs="#facs_1"/>
+      <tei:body>
+         <tei:div>
+            <tei:pb ed="print" n="2" facs="#facs_2"/>
+            <tei:pb ed="print" n="3" facs="#facs_3"/>
+            <tei:pb ed="print" n="4" facs="#facs_4"/>
+         </tei:div>
+      </tei:body>
+   </tei:text>
+</tei:TEI>
