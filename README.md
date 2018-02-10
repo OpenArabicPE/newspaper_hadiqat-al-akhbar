@@ -1,9 +1,11 @@
 ---
 title: "newspaper_hadiqat-al-akhbar: read me"
 author: Till Grallert
+ORCID: orcid.org/0000-0002-5739-8094
 date: 2018-02-09 14:16:26 +0200
 ---
 
+[![DOI](https://zenodo.org/badge/120906354.svg)](https://zenodo.org/badge/latestdoi/120906354) [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-5739-8094) [![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 This repository contains bibliographic metadata for the first 357 issues of the weekly newspaper *Ḥadīqat al-Akhbār* published by Khalīl al-Khūrī in Beirut between 1858 and 1865. Digital facsimiles are not publicly available. 
 
