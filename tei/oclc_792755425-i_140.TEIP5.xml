@@ -35,12 +35,12 @@
                         <title level="j" xml:lang="ar-Latn-x-ijmes">Ḥadīqat al-Akhbār</title>
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jurnāl madanī ʿilmī matjarī tārīkhī</title>
                         <!-- use as many identifiers as appropriate -->
-                        <idno type="oclc" xml:lang="en">792755425</idno>
-                        <idno type="oclc" xml:lang="en">745205670</idno>
-                        <idno type="oclc" xml:lang="en">243441816</idno>
-                        <idno type="oclc" xml:lang="en">503753305</idno>
-                        <idno type="oclc" xml:lang="en">269135845</idno>
-                        <idno type="oclc" xml:lang="en">499946227</idno>
+                        <idno type="OCLC" xml:lang="en">792755425</idno>
+                        <idno type="OCLC" xml:lang="en">745205670</idno>
+                        <idno type="OCLC" xml:lang="en">243441816</idno>
+                        <idno type="OCLC" xml:lang="en">503753305</idno>
+                        <idno type="OCLC" xml:lang="en">269135845</idno>
+                        <idno type="OCLC" xml:lang="en">499946227</idno>
                   <idno type="SenteUUID" xml:lang="ar-Latn-x-ijmes">9492B5B4-208A-44D3-95DF-74DC531D9D81</idno>
                   <editor xml:lang="en" ref="viaf:41830998">
                             <persName xml:lang="ar">
