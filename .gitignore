@@ -1,0 +1,14 @@
+# ignore image files
+images/
+images
+.jpg
+.jpeg
+*.tif
+*.tiff
+
+.DS_Store
+#.gitignore
+_site/
+.sass-cache/
+teibp_parameters-*
+_output/
